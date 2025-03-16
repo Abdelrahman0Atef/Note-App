@@ -1,0 +1,2 @@
+C:/Users/atefa/StudioProjects/note_app/android/app/.cxx/Debug/743927s2/x86/CMakeFiles/edit_cache.dir
+C:/Users/atefa/StudioProjects/note_app/android/app/.cxx/Debug/743927s2/x86/CMakeFiles/rebuild_cache.dir
